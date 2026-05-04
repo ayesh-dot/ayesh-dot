@@ -10,14 +10,14 @@
 
 ### 🔭 Currently Working On
 - **[A.R.M.S.](https://ayesh-dot.github.io/A.R.M.S.)** | *Asset & Risk Management Simulator*
-  -**Loan System**: Built a feature that handles loans and interest payments in the background while the game runs.
-  -**Stock Market**: Created a system where stock prices change, allowing players to practice buying and selling.
-  -**Risk Exchange Games**: Included card games like Poker and Blackjack to simulate decision-making and managing business risks.
+  -Loan System: Built a feature that handles loans and interest payments in the background while the game runs. 
+  -Stock Market: Created a system where stock prices change, allowing players to practice buying and selling.
+  -Risk Exchange Games: Included card games like Poker and Blackjack to simulate decision-making and managing business risks.
 - **[N100-BOS](https://github.com/ayesh-dot/N100-BOS)** | *Custom 2D Strategy Engine*
   - Developing a theater-based combat simulator.
   - Focused on dynamic frontline detection and high-concurrency logic.
   - To be highly customizable in the future via templates!
-- **[3M Auto Group Website](github.com/ayesh-dot/3mautogroupwebsite)**
+- **[3M Auto Group Website](github.com/ayesh-dot/3m-auto-group-website)**
   - CRUD website created from scratch for a local business.  
 
 ---
