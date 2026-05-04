@@ -9,13 +9,13 @@
 ---
 
 ### 🔭 Currently Working On
-- **[A.R.M.S.](https://github.com.)** | *Asset & Risk Management Simulator*
+- **[A.R.M.S.](https://ayesh-dot.github.io/A.R.M.S.)** | *Asset & Risk Management Simulator*
   - Implementing  amortization and automated agent transactions.
-- **[N100-BOS](https://github.com)** | *Custom 2D Strategy Engine*
+- **[N100-BOS](https://ayesh-dot.github.io/N100-BOS)** | *Custom 2D Strategy Engine*
   - Developing a theater-based combat simulator.
   - Focused on dynamic frontline detection and high-concurrency logic.
   - To be highly customizable in the future via templates!
-- **[3M Auto Group Website](https://github.com)**
+- **[3M Auto Group Website](https://3mautogroup.github.io/website)**
   - CRUD website created from scratch for a local business.  
 
 ---
@@ -25,8 +25,8 @@
   - To be created with R3F or Three.js.   
 
 
-### 🤝 Connect with Me
-- **Freelance:** Open for web development and CRUD application projects (See: [3M-Auto-Group](https://github.com))
-- **Philosophy:** Contact me at ayeshabulehieh@gmail.com for businesss.
+### 🤝 Contact Me
+- **Freelance:** Open for web development and CRUD application projects (See: [3M-Auto-Group](https://3mautogroup.github.io/website))
+- **Philosophy:** Contact me at ayeshabulehieh@gmail.com for businesss or just to reach out.
 
 "I have no enemies"
