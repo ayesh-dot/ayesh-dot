@@ -4,7 +4,7 @@
 ---
 
 ### 🛠️ Technical Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pixijs,firebase,firestore,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,firebase,github)](https://skillicons.dev)
 
 ---
 
@@ -24,10 +24,6 @@
   - Single player 3D game.
   - To be created with R3F or Three.js.   
 
-### 📈 GitHub Statistics
-![Ayesh's Top Langs](https://vercel.app)
-
----
 
 ### 🤝 Connect with Me
 - **Freelance:** Open for web development and CRUD application projects (See: [3M-Auto-Group](https://github.com))
