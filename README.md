@@ -1,5 +1,5 @@
 # 🎭 Ayesh Abulehieh
-**11th Grade Developer | 3.9 GPA | Focused on Systems Optimization & Financial Logic**
+**11th Grade Developer | 3.9 GPA | Focused on Web and Game Development**
 
 ---
 
