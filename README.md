@@ -18,7 +18,7 @@
   - Focused on dynamic frontline detection and high-concurrency logic.
   - To be highly customizable in the future via templates!
 - **[3M Auto Group Website](github.com/ayesh-dot/3m-auto-group-website)**
-  - CRUD website created from scratch for a local business.  
+  - CRUD (Create, Read, Update, Delete) website created from scratch for a local business.  
 
 ---
 ### 🚀Future Plans
