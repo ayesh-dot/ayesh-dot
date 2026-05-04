@@ -27,8 +27,8 @@
   - To be created with R3F or Three.js.   
 
 
-### 🤝 Contact Me
+### 🤝 Reach Me
 - **Freelance:** Open for web development and CRUD application projects (See: [3M-Auto-Group](https://3mautogroup.github.io/website))
-- **Philosophy:** Contact me at ayeshabulehieh@gmail.com for businesss or just to reach out.
+- **Contact Me:** Contact me at ayeshabulehieh@gmail.com for businesss or just to reach out.
 
 "I have no enemies"
