@@ -4,7 +4,7 @@
 ---
 
 ### 🛠️ Technical Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ps,ai,firebase,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,wasm,ps,ai,firebase,github)](https://skillicons.dev)
 
 ---
 
