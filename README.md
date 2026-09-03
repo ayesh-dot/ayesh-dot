@@ -33,5 +33,3 @@
 ### 🤝 Reach Me
 - **Freelance:** Open for web development and CRUD application projects (See: [3M-Auto-Group](https://3mautogroup.github.io/website))
 - **Contact Me:** Contact me at ayeshabulehieh@gmail.com for businesss or just to reach out.
-
-"I have no enemies"
